@@ -6,4 +6,4 @@
 
 ![Screenshot](avalon1-ss.png)
 ![Screenshot](avalon2-ss.png)
-![Screenshot](avalon3-sst.png)
+![Screenshot](avalon3-ss.png)
