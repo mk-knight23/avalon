@@ -1,6 +1,5 @@
-# avalon
- Avolon 
+# Avalon
 
- Your site is ready to be published at https://mk-knight23.github.io/avalon
+# DEMO : https://mk-knight23.github.io/avalon
 
- Your site is ready to be published at https://avalon-web.onrender.com
+# DEMO : https://avalon-web.onrender.com
